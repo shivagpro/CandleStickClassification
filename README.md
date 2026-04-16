@@ -1,4 +1,4 @@
-# Candle Orientation Classification with Deep Learning
+# CandleStick Chart Orientation Classification with Deep Learning
 
 ## Project Overview
 This project classifies candle images by orientation (**Up vs Down**) using a fine-tuned ResNet18 deep learning model trained on PyTorch.
